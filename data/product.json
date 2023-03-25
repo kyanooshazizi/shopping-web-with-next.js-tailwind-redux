@@ -1,0 +1,56 @@
+[
+    {
+        "title":"Book1",
+        "price":"100$",
+        "slug":"book-1",
+        "description":"Learning javascript",
+        "catgoury":"Book",
+        "count":"3",
+        "image":"/image/book1.jpg"
+    },
+    {
+        "title":"Book2",
+        "price":"200$",
+        "slug":"book-2",
+        "description":"Learning html",
+        "catgoury":"Book",
+        "count":"0",
+        "image":"/image/book2.jpg"
+    },
+    {
+        "title":"Book3",
+        "price":"250$",
+        "slug":"book-3",
+        "description":"Learning php",
+        "catgoury":"Book",
+        "count":"16",
+        "image":"/image/book3.jpg"
+    },
+    {
+        "title":"Book4",
+        "price":"550$",
+        "slug":"book-4",
+        "description":"Learning react",
+        "catgoury":"Book",
+        "count":"50",
+        "image":"/image/book4.jpg"
+    },
+    {
+        "title":"Book5",
+        "price":"600$",
+        "slug":"book-5",
+        "description":"Learning next",
+        "catgoury":"Book",
+        "count":"50",
+        "image":"/image/book5.jpg"
+    },
+    {
+        "title":"Book6",
+        "price":"20$",
+        "slug":"book-6",
+        "description":"Learning bootstrap",
+        "catgoury":"Book",
+        "count":"10",
+        "image":"/image/book1.jpg"
+    }
+]
